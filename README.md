@@ -1,8 +1,13 @@
 ### Hi there 👋
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mohful)](https://github.com/anuraghazra/github-readme-stats)
+## GitHub Stats
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mohful&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SaiyedRushan&theme=radical&show_icons=true&&size_weight=0.5&count_weight=0.5&hide=html,css,jupyter%20notebook)](https://github.com/anuraghazra/github-readme-stats)
+
+## 🏆 GitHub Trophies
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=SaiyedRushan&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+
 
 <!--
 **mohful/mohful** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
