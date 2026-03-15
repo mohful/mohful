@@ -1,6 +1,6 @@
 # Hey, I'm Mohammed 👋
 
-> *Full Stack Developer → AI Engineer in progress. Building things that matter, at the intersection of clean architecture and emerging intelligence.*
+> *Full Stack Developer → AI Engineer in progress.*
 
 ---
 
@@ -8,7 +8,7 @@
 
 Software engineer with a full-stack foundation and a deliberate shift toward AI-driven systems. Currently at **OpenText** on the ITOM team, where I work across products like SMAX, IDM, OMT, and BO — from backend services to internal tooling R&D.
 
-I care about systems that are built to last, not just ship fast. Whether it's designing agentic AI loops, building scalable microservices, or translating raw complexity into clear documentation — I aim for work that's both rigorous and readable.
+I care about systems that are built to last. Whether it's designing agentic AI loops or building scalable microservices.
 
 - 🔭 Working on: AI instrumentation tooling & enterprise platform integration
 - 🌱 Growing toward: Senior AI-Focused Engineer → AI Software Architect
